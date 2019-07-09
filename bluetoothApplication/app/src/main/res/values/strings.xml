@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">bluetoothApplication</string>
+
+    <string name="refresh">Refresh</string>
+</resources>
